@@ -6,11 +6,11 @@ This will be a practical test to analyze your knowledge using GIT and CodeIgnite
 
 To begin, you should fork this repository. This will be your workstation.
 
-1. Create a CodeIgniter/Laravel APP on your fork. We're currently using version 2.
-2. Your app should do some tasks:  
- a. CRUD for products.  
+1. Create a CodeIgniter/Laravel APP on your fork. We're currently using CodeIgniter version 2 and Laravel version 5.3.
+2. Your app must have these tasks:  
+ a. A CRUD for products.  
  b. A cron to create an order with random products every thirty minutes.  
- c. Display all orders, this query should be cached.  
+ c. A page displaying all orders, the query should be cached.  
 
 ### Tasks Explanation
 
